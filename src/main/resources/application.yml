@@ -9,10 +9,10 @@ server:
 
 spring:
   datasource:
-    driver-class-name: org.mariadb.jdbc.Driver
-    url: jdbc:mariadb://nickelback53.synology.me:53307/security
-    username: cos
-    password: Taeho123123!!
+    driver-class-name:
+    url: 
+    username: 
+    password: 
 
 #  mvc:
 #    view:
